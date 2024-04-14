@@ -15,3 +15,5 @@ print('my name is '+ myname)
 Bool=True
 print(Bool)
 print(type(Bool)) #check boolen
+x = 5
+print(type(x))
