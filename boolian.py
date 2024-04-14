@@ -11,4 +11,7 @@ myname="titu"
 print(yourname + myname) #concate kora
 print(yourname+ '  '+myname)
 print('my name is '+ myname)
-
+#Boolen data 
+Bool=True
+print(Bool)
+print(type(Bool)) #check boolen
