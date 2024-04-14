@@ -5,3 +5,10 @@ print(type(cod))
 #complex number data
 compound =45j
 print(type(compound))
+# string type data :
+yourname="Amgonota"
+myname="titu"
+print(yourname + myname) #concate kora
+print(yourname+ '  '+myname)
+print('my name is '+ myname)
+
