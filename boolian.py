@@ -31,3 +31,10 @@ b1=bytearray(somenumber)
 print(type(b1))
 b1[0]=150
 print(b1[0])
+#None types of data 
+q=None
+print(type(q))
+#List array
+x=['nibi','khabi','chabi','habi','urbi']
+x[0]='corbi'
+print(x)
