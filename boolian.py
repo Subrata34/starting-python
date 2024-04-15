@@ -90,3 +90,4 @@ print(h_1!=g) #gather than
 print(h_1>g)  #gather than
 print(h_1<g)  # less  than 
 print(h_1>=g) #gather than equal 
+print(h_1<=g) # less than equal 
