@@ -67,3 +67,26 @@ print('a and b Exponential number :',x_1**b_2)
 sum_1=15
 sum_2=7
 print('sum_1 and sum_2 between floor division : ', sum_1//sum_2)
+
+#Assignment Operator 
+d=10
+sum_1=d+5
+print(sum_1) #same declaration 2nd process 
+
+h=10
+h+=10
+print(h)
+
+c=90
+c-=10
+print(c)
+
+#comparison operator 
+h_1=14
+g=14
+print(h_1==g) #equal operator 
+
+print(h_1!=g) #gather than 
+print(h_1>g)  #gather than
+print(h_1<g)  # less  than 
+print(h_1>=g) #gather than equal 
