@@ -17,3 +17,7 @@ print(Bool)
 print(type(Bool)) #check boolen
 x = 5
 print(type(x))
+#string formating 
+number_1=20;
+number_2=80;
+print(f"my age is {number_2}and my roll number is {number_1}")
