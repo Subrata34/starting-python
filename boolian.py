@@ -38,3 +38,11 @@ print(type(q))
 x=['nibi','khabi','chabi','habi','urbi']
 x[0]='corbi'
 print(x)
+#tuple type of data 
+tup=(12,30,31,80,60,70) #tuple emutable 
+
+print(type(tup))
+#range type data
+ran=range(6)
+for i in ran :
+   print(i)
