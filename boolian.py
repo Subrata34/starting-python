@@ -46,3 +46,24 @@ print(type(tup))
 ran=range(6)
 for i in ran :
    print(i)
+
+#Arithmetic operator 
+a=10
+b=28
+print('this is addition a and b :',a+b)
+#Subtraction
+print(' a and b subtraction ',a-b)
+#Multiplication 
+print('a and b multiplication :',a*b)
+#Division 
+print('a and b between number Division :',a/b)
+#modulues %
+print('a and b between number modulues :',a%b)
+#Exponential **
+x_1=5
+b_2=2
+print('a and b Exponential number :',x_1**b_2)
+#Floor division //
+sum_1=15
+sum_2=7
+print('sum_1 and sum_2 between floor division : ', sum_1//sum_2)
