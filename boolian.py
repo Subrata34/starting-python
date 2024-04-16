@@ -91,3 +91,10 @@ print(h_1>g)  #gather than
 print(h_1<g)  # less  than 
 print(h_1>=g) #gather than equal 
 print(h_1<=g) # less than equal 
+
+#Swapping :
+m=800
+n=300
+m,n=n,m
+print("value of m=",m)
+print("value of n=",n)
