@@ -98,3 +98,10 @@ n=300
 m,n=n,m
 print("value of m=",m)
 print("value of n=",n)
+
+#User input  :
+username =input("Enter your username :")
+password=input("enter your password :")
+print(username)
+print(password)
+
