@@ -41,3 +41,23 @@ print(newlist)
 print(newlist)
 newlist.clear()
 print(newlist)
+
+#you can loop though the list item
+
+Looplist =['rahul pit singh','konona ranuath','janovi kapur','Kira adbani','Kirti sonam']
+
+for team in Looplist :
+    print(team)
+
+# Use the range() and len() functions to create a suitable iterable.
+for i in range(len(Looplist)) :
+    print(i)
+
+#Print all items, using a while loop to go through all the index numbers
+
+Looplist =['rahul pit singh','konona ranuath','janovi kapur','Kira adbani','Kirti sonam']
+
+y=0
+while y<len(Looplist):
+    print(Looplist[y])
+    y=y+1
