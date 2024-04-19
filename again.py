@@ -36,3 +36,12 @@ print(list_1)
 
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(fruits[2:5])
+
+#matrix index 
+matrix=[
+    [1,2,3,4,5],
+    [4,5,6,8,9],
+    70
+]
+
+print(matrix[0][0])
