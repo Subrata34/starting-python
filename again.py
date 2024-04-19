@@ -33,3 +33,6 @@ print(list_3)
 
 list_1.extend(list_2)   #python programming method joining 
 print(list_1)
+
+fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(fruits[2:5])
