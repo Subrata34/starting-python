@@ -24,3 +24,12 @@ number=[1,2,3,4,5,6]
 copylist=number.copy()
 print(number)
 print(copylist)
+
+#join the two list 
+list_1=[1,2,3,4,5,8]
+list_2=[6,4,3,2,6,9]
+list_3=list_1+list_2
+print(list_3)
+
+list_1.extend(list_2)   #python programming method joining 
+print(list_1)
