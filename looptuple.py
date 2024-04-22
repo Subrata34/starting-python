@@ -14,3 +14,7 @@ while t<len(fruits):
    print(fruits[t])
    t=t+1
 
+#join  tuple 
+fish=('lebo rohita','ilsha ilsha','bafu melano srikesash','katla katla ')
+print(fish*3)
+
