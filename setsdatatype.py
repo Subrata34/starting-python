@@ -13,3 +13,8 @@ thisset = {"apple", "banana", "cherry"}
 thisset.add("orange")
 print(thisset)
 
+#set update method 
+myset1={'sakil','mahin','sojib','sakib'}
+thisset = {"apple", "banana", "cherry"}
+myset1.update(thisset)
+print(myset1)
