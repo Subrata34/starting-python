@@ -6,3 +6,8 @@ print(myset)
 #discard  the set item
 myset.discard(6)
 print(myset)
+
+#pop method remove set item 
+Myset={'tutul','habib','rimon','tanvir'}
+Myset.pop()
+print(Myset)
