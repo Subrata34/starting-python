@@ -11,3 +11,11 @@ print(myset)
 Myset={'tutul','habib','rimon','tanvir'}
 Myset.pop()
 print(Myset)
+
+#loop set item
+
+
+Myset1={'tutul','habib','rimon','tanvir','habiba'}
+
+for i in Myset1 :
+    print(i)
