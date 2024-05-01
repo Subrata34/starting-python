@@ -26,3 +26,7 @@ p=studentInfo.keys()
 print(x)
 print(p)
 print(studentInfo.values())
+
+#dictionary Item remove and add Item 
+studentInfo.pop("Labib")
+print("Labib remove: ",studentInfo)
