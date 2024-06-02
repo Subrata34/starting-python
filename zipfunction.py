@@ -1,3 +1,3 @@
 list1=["tutul","hani","pani","dim"]
 list2=["google","web","ms","microsoft"]
-print(list(zip(list1,list2)))
+print(list(zip(list1,list2))) #list march korte pare 
