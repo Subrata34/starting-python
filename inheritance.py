@@ -11,3 +11,17 @@ class robina(robin):
 
 r=robina()
 print(r.car)
+
+#Multiple inhertance 
+class roby:
+    home ="1 biga "
+    car ="bmw101"
+class rony(roby):
+    brokenbike="150cc r15"
+    brokencycle="hero"
+
+class tony(rony):
+    givencycle="hero"
+
+t=tony()
+print(t.car)
